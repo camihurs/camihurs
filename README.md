@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Thanks for visiting my GitHub profile, maybe we can work together sometime.
+
+- 🔭 I’m currently working on acoustic scattering models for underwater targets on or within the seafloor. Also I am working on the detection and classification of these targets.
+- 🌱 I’m currently learning about physics and AI. I like a lot dynamic sistems and its intersection with AI through SciML (Scientific Machine Learning).
+- 👯 I’m looking to collaborate on anything, I am really good at working in a team.
+- 🤔 I’m looking for help with the generation of SAS (Synthetic Aperture SONAR) images.
+-  💬 Ask me about 3D printing, karate, heavy metal, habits, discipline, languagesm chess, piano, podcast and writing. Those have been my hobbies and themes of interest for many years.
+- 📫 How to reach me: you can see in my profile many of my social networks.
+
 <!--
 **camihurs/camihurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
